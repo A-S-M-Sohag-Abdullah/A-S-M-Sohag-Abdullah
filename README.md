@@ -1,7 +1,7 @@
 <img align="right" alt="Coding" width="100%" src="https://itechnasik.com/wp-content/uploads/2023/11/Mern-Stack-Developer.png"/>
 
 <h1 align="center">Hi 👋, I'm A. S. M. Sohag Abdullah</h1>
-<h3 align="center">I am a recent graduate with a Bachelor of Science in Computer Science and Engineering from Daffodil International University. With proficiency in C, C++, HTML, CSS, and JavaScript, I have a solid foundation in programming. My proficiency in the MERN stack complements my technical skills, enabling me to build dynamic, full-stack web applications and create user-friendly, visually appealing interfaces.. Passionate about technology and committed to continuous learning, I am eager to apply my skills to make a meaningful impact in the field.</h3>
+<p>I am a recent graduate with a Bachelor of Science in Computer Science and Engineering from Daffodil International University. With proficiency in C, C++, HTML, CSS, and JavaScript, I have a solid foundation in programming. My proficiency in the MERN stack complements my technical skills, enabling me to build dynamic, full-stack web applications and create user-friendly, visually appealing interfaces.. Passionate about technology and committed to continuous learning, I am eager to apply my skills to make a meaningful impact in the field.</p>
 
 <img align="left" alt="Coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"/>
 
