@@ -1,28 +1,97 @@
-<img align="right" alt="Coding" width="100%" src="https://itechnasik.com/wp-content/uploads/2023/11/Mern-Stack-Developer.png"/>
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm A. S. M. Sohag Abdullah</h1>
-<p>I am a recent graduate with a Bachelor of Science in Computer Science and Engineering from Daffodil International University. With proficiency in C, C++, HTML, CSS, and JavaScript, I have a solid foundation in programming. My proficiency in the MERN stack complements my technical skills, enabling me to build dynamic, full-stack web applications and create user-friendly, visually appealing interfaces.. Passionate about technology and committed to continuous learning, I am eager to apply my skills to make a meaningful impact in the field.</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=A.%20S.%20M.%20Sohag%20Abdullah&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20Next.js%20Specialist&descAlignY=60&descSize=18" width="100%" />
 
-<img align="left" alt="Coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+Specialist+%F0%9F%94%A5;Next.js+Developer+%E2%9A%A1;Top+Rated+Upwork+Freelancer+%F0%9F%8C%9F;Building+Scalable+Web+Apps+%F0%9F%92%BB" alt="Typing SVG" />
 
+<br/>
 
-- 🔭 I’m currently working on **Websocket**
+<a href="https://sohagabdullah.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-sohagabdullah.com-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/sohag-abdullah-5b8baa205/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:sohagadullah2021@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=A-S-M-Sohag-Abdullah&style=for-the-badge&color=0891b2&labelColor=1c1917" />
 
-- 🌱 I’m currently learning **MERN**
+</div>
 
-- 👨‍💻 All of my projects are available at [https://sohagabdullah.onrender.com/](https://sohagabdullah.onrender.com/)
+<br/>
 
-- 💬 Ask me about **React, MERN**
+## 👨‍💻 About Me
 
-- 📫 How to reach me **sohagadullah2021@gmail.com**
+- 🚀 Full Stack Developer specializing in **MERN Stack** and **Next.js**
+- ⭐ **Top Rated** Freelancer on Upwork since Sep 2021
+- 💼 Software Engineer at **Info Inlet**
+- 🎓 BSc in Computer Science & Engineering — **Daffodil International University**
+- 🌍 Building scalable web apps for international clients
+- 🌐 Portfolio → [sohagabdullah.com](https://sohagabdullah.com)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/sohag-abdullah-5b8baa205/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sohag-abdullah-5b8baa205/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/u/a-s-m-sohag-abdullah/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="u/a-s-m-sohag-abdullah/" height="30" width="40" /></a>
+<br/>
+
+## 💼 Experience
+
+| Role | Company | Period |
+|------|---------|--------|
+| ⭐ Frontend Developer (Top Rated) | Upwork | Sep 2021 – Present |
+| 💼 Software Engineer | Info Inlet | Jul 2025 – Present |
+
+<br/>
+
+## 🛠️ Tech Stack
+
+**Frontend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,bootstrap,html,css&theme=dark" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+**Backend**
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=a-s-m-sohag-abdullah&show_icons=true&locale=en&layout=compact" alt="a-s-m-sohag-abdullah" /></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,postgres&theme=dark" />
+</p>
+
+**Design**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,xd,photoshop&theme=dark" />
+</p>
+
+**Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,vercel&theme=dark" />
+</p>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=A-S-M-Sohag-Abdullah&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&ring_color=00D9FF" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-S-M-Sohag-Abdullah&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff" width="40%" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=A-S-M-Sohag-Abdullah&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" width="55%" />
+
+</div>
+
+<br/>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=A-S-M-Sohag-Abdullah&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%" />
+</div>
+
+<br/>
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=A-S-M-Sohag-Abdullah&bg_color=0D1117&color=00D9FF&line=00D9FF&point=ffffff&area=true&area_color=00D9FF&hide_border=true" width="100%" />
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
